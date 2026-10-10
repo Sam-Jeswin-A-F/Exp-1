@@ -1,13 +1,13 @@
 # Exp-1
 
-## EXPT NO:1 
+## EXPERIMENT NO : 1 
 VERIFICATION OF KIRCHHOFF’S LAWS
 
 ## AIM
 a. To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b. To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
-## APPARATUS REQUIRED: 
+## APPARATUS REQUIRED
 |S.No.|Components|Range|Quantity|
 |:--------|:------:|:------:|------:|
 |1|Resistor|1kΩ|3|
@@ -17,13 +17,13 @@ b. To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 |5|Regulated Power Supply|(0-30)V|1 
 |6|Connecting wires|-|As required|
 
-## THEORY:
+## THEORY
 1. KVL:
-Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+***Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.***
 2. KCL: 
-Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+***Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative.***
 
-## PROCEDURE:
+## PROCEDURE
 
 a. KVL:
 - Connect as per the circuit diagram.
@@ -43,7 +43,7 @@ b. KCL:
 - Record the voltage values shown in the ammeter connected to each resistor.
 - Take readings for different values of input voltage and tabulate them.
 
-## CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAM
 
 a. KVL:
 
@@ -58,7 +58,7 @@ b. KCL:
 <img width="708" height="527" alt="KCL circuit" src="https://github.com/user-attachments/assets/c709b877-a58f-4e06-8a34-21b4c60a8a51" />
 
 
-## Calculation:
+## Calculation
 
 a. KVL:
 
@@ -68,13 +68,13 @@ b. KCL:
 
 <img width="724" height="1279" alt="KCL calculation" src="https://github.com/user-attachments/assets/8133fd8e-a017-4398-895d-76f4a0b4151f" />
 
-## Tabulation:
+## Tabulation
 
 a. KVL:
 
 b. KCL:
 
-## RESULT:
+## RESULT
 
 <img width="1403" height="725" alt="KVL output" src="https://github.com/user-attachments/assets/c29b1f18-d725-47b4-82ef-d774ea8ddd69" />
 
