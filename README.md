@@ -72,12 +72,16 @@ b. KCL:
 
 a. KVL:
 
+<img width="1600" height="530" alt="KVL Table" src="https://github.com/user-attachments/assets/66b44fc6-5e75-4736-94b0-97ef554e5206" />
+
 b. KCL:
+
+<img width="1600" height="465" alt="KCL Table" src="https://github.com/user-attachments/assets/652ff628-452c-4129-9fd5-f63d8e508aa9" />
 
 ## RESULT
 
-<img width="1403" height="725" alt="KVL output" src="https://github.com/user-attachments/assets/c29b1f18-d725-47b4-82ef-d774ea8ddd69" />
+<img width="1403" height="725" alt="KVL output" src="https://github.com/user-attachments/assets/40146372-7671-4da3-899d-5d76af689e35" />
 
-<img width="720" height="535" alt="KCL output" src="https://github.com/user-attachments/assets/446b3554-7d7d-4ffc-8e01-928fe118572e" />
+<img width="720" height="535" alt="KCL output" src="https://github.com/user-attachments/assets/31a30599-f109-40d0-b1ea-e584455c2455" />
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
